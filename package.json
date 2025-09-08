@@ -78,7 +78,7 @@
     "@react-aria/button": "^3.13.3",
     "@react-aria/calendar": "^3.8.3",
     "@react-aria/utils": "^3.29.1",
-    "@react-aria/visually-hidden": "^3.8.25",
+    "@react-aria/visually-hidden": "^3.8.27",
     "@react-email/components": "0.0.37",
     "@react-email/render": "1.1.0",
     "@react-stately/calendar": "^3.8.2",
